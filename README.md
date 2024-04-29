@@ -1,5 +1,5 @@
-# MSC-HGR
-Multi-Supervised Contrastive Learning for sEMG Hand Gesture Recognition
+# SAC-HGR
+Subject-Aware Contrastive Learning for Hand Gesture Recognition in Surface EMG
 
 
 ### data process
